@@ -5,8 +5,9 @@ SmartNutri is a web application designed to provide personalized nutrition and w
 
 ---------------------------------------------------------------------------------------------
 
-Personalized Meal Plans: Tailored recommendations based on age, weight, activity level, and goals.
-Workout Routines: Custom fitness plans aligned with health objectives.
-Progress Tracking: Tools to monitor weight, caloric intake, and workout consistency.
-Health Statistics: Visualized insights to help users track their fitness journey.
-Stay healthy and achieve your wellness goals with SmartNutri!
+1. **User Profiles**: Allow users to create accounts and input data like age, gender, weight, activity level, and goals (e.g., weight loss, muscle gain).
+2. **Nutritional Plans**: Generate personalized meal plans based on their input data. You could include macronutrient breakdowns (carbs, protein, fats) and daily caloric needs
+3. **Workout Plans**: Provide tailored exercise routines that complement the nutritional plan. These could be categorized by fitness goals (strength, endurance, flexibility).
+4. **Progress Tracking**: Include a dashboard to track progress with metrics like weight changes, workout consistency, and diet adherence.
+5. **Health Stats**: Visualize stats such as BMI, caloric intake, and activity levels through graphs or charts.
+6. **Recipe Suggestions**: Offer meal suggestions based on the user's preferences and dietary restrictions.
